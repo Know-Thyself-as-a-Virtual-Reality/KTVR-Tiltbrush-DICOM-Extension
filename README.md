@@ -1,13 +1,13 @@
 # KTVR-tiltbrush-Extension
 
-KTVR-DICOM-Tools is  a VR Unity project with tools to import DICOM data into Unity. We also have tools that allow you to manipulate the data in VR in real time.
+tilt-brush-DICOM-Loader is a fork of [Googles Tiltbrush](https://github.com/googlevr/tilt-brush). It allows you to load DICOM date into a scene and paint in 3D around it!
 
 ## Installation
 
 Either download the zip file, or use:
 
 ```git bash
-git clone https://github.com/Know-Thyself-as-a-Virtual-Reality/KTVR-DICOM-Tools
+git clone https://github.com/Know-Thyself-as-a-Virtual-Reality/tilt-brush-DICOM-Loader
 ```
 
 ## Usage
