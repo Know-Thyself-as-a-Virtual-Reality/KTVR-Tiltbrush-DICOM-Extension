@@ -1,6 +1,6 @@
 # KTVR-tiltbrush-Extension
 
-tilt-brush-DICOM-Loader is a fork of [Googles Tiltbrush](https://github.com/googlevr/tilt-brush). It allows you to load DICOM date into a scene and paint in 3D around it!
+tilt-brush-DICOM-Loader is a fork of [Googles Tiltbrush](https://github.com/googlevr/tilt-brush). It allows you to load DICOM data into a scene and paint in 3D around it!
 
 ## Installation
 
