@@ -1,6 +1,6 @@
 # KTVR-tiltbrush-Extension
 
-tilt-brush-DICOM-Loader is a fork of [Googles Tiltbrush](https://github.com/googlevr/tilt-brush). It allows you to load DICOM data into a scene and paint in 3D around it!
+tilt-brush-DICOM-Loader is a fork of [Google's Tiltbrush](https://github.com/googlevr/tilt-brush). It allows you to load DICOM data into a scene and paint in 3D around it!
 
 ## Installation
 
@@ -13,7 +13,7 @@ git clone https://github.com/Know-Thyself-as-a-Virtual-Reality/tilt-brush-DICOM-
 ## Usage
 
 ### Tiltbrush
-Please refer to the github page for tiltbrush:
+Please refer to the github page for Tiltbrush:
 [Tiltbrush](https://github.com/googlevr/tilt-brush)
 
 ---
