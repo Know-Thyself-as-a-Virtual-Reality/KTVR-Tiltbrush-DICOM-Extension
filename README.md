@@ -34,4 +34,4 @@ When you have the project downloaded, open it in Unity Hub and explore the funct
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[GNU](https://www.gnu.org/licenses/gpl-3.0.en.html)
+[APACHE 2.0](https://www.apache.org/licenses/LICENSE-2.0)
